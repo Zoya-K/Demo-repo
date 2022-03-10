@@ -7,6 +7,6 @@ Some description!
 
 More text
 
-###all new 
+###all new for branch exercises 
 
-3/09/22
+1. open html in your browser
